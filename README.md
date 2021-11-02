@@ -6,7 +6,7 @@ Rebuild the way of instant messaging, connecting server-side,app-user,web-user b
 - Homepage: http://vgo.io
 
 ###Project status
-Under refactoring
+To be design
 
 ### Features
 - Pub/Sub
