@@ -1,7 +1,7 @@
 # Push
 
-###Project status
-To be design
+### Project status
+early stage
 
 ### Features
 - Pub/Sub
