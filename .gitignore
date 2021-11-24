@@ -1,2 +1,3 @@
-vgo/.DS_Store
-vgo/vgo
+# Added by cargo
+
+/target
