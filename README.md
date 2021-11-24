@@ -1,9 +1,4 @@
-
-Vgo
-------------
-Rebuild the way of instant messaging, connecting server-side,app-user,web-user by pub/sub.
-
-- Homepage: http://vgo.io
+# Push
 
 ###Project status
 To be design
